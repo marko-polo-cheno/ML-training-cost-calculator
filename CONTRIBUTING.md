@@ -10,13 +10,13 @@ If you are a researcher, you can download our training data and contribute to th
 
 # Open a Bug Report
 
-If you are facing a general problem, we encourage you to open an [issue](https://github.com/aipaca-mlops/ML-training-cost-calculator/issues) so that future community memembers can view a well-organized history.
+If you are facing a general problem, we encourage you to open an [issue](https://github.com/aipaca-mlops/ML-training-cost-calculator/issues) so that future community members can view a well-organized history.
 
 If you are facing a personal problem, you can always send Aipaca's Admin Team a direct message from [Discord Community](https://discord.gg/bYB7EuXzWW).
 
 # Triaging a Bug Report
 
-It's common for open issues to involve discussion. Some contributors may have differing opinions, including whether the behavior is a bug or feature. This discussion is part of the process and should be kept focused, helpful, and professional.
+It is common for open issues to involve discussion. Some contributors may have differing opinions, including whether the behavior is a bug or feature. This discussion is part of the process and should be kept focused, helpful, and professional.
 
 Terse responses that provide neither additional context nor supporting detail are not helpful or professional. To many, such responses are annoying and unfriendly.
 
@@ -34,4 +34,4 @@ Responses to posted issues may or may not be in the original language.
 
 # Improvement
 
-We understand some contribution details haven't been standardized. We planned to gradually fulfilled it according to our contributor habit in the futhre.
+We understand some contribution details haven't been standardized. We planned to gradually fulfilled it according to our contributor habit in the future.
